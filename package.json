@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@types/react-virtualized": "^9.21.12",
+    "axios": "^0.21.1",
+    "flatlist-react": "^1.5.0",
+    "react": "^16.14.0",
+    "react-backdrop-filter": "^2.1.0",
+    "react-dom": "^16.14.0",
+    "react-virtualized": "^9.22.3",
+    "react-window": "^1.8.6"
+  }
+}
